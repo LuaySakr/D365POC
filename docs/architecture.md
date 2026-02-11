@@ -18,7 +18,6 @@ This document is a **pre-study** to evaluate how View21 can be integrated with M
 - Recommend an initial direction
 - Define a concrete next step (Proof of Concept)
 
-> **Note on expertise:** I am not a Dynamics 365 specialist. I am a solution architect with experience designing integrations between enterprise systems. This pre-study leverages that experience to identify the right patterns, evaluate trade-offs, and propose a solution that is **long-term viable, cost-effective, secure, and simple enough to maintain**.
 
 ---
 
